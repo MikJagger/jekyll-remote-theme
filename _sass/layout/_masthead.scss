@@ -1,5 +1,5 @@
 // Styling for the masthead
-// this is the stylingt for the center intro text above button tell me more
+// this is the styling for the center intro text above button tell me more
 header.masthead {
   text-align: center;
   color: white;
@@ -35,7 +35,7 @@ header.masthead {
       padding-bottom: 200px;
       .intro-lead-in {
         font-size: 40px;
-        font-style: italic;
+        font-style: normal;
         line-height: 40px;
         margin-bottom: 25px;
         @include serif-font;
